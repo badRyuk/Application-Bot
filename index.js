@@ -5,8 +5,7 @@ const { Client, Collection } = require("discord.js");
 const client = require('discord.js')
 const { readdirSync } = require("fs");
 const { join } = require("path");
-// TOKEN DELETED
-const TOKEN = 'NzMzMjkzNzYzNTAxNDkwMTc2.XxBDCQ.VxQ-4gS88pwep5-COABzrQ0x7Rs';
+const TOKEN = '';
 const PREFIX = '+'
 const { MessageEmbed } = require("discord.js");
 const Discord = require('discord.js');
